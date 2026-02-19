@@ -20,6 +20,7 @@
 19. Procedure Change (2602) - Incorporate Biggin Hill ground - thanks to @lucak1011 (Luca Kulaga)
 20. Bug - Fixed missing Sector File Descriptor in the Farnborough (EGLF) profile - Thanks to @MrAdder (Daniel Green)
 21. AIRAC(2603) - Updated TopSky definitions for daylight savings time 2026 - thanks to @Liaely (Lily Unitt)
+22. Enhancement - Added Aircraft Select (ASEL) key selection to Configurator - thanks to @hoffi-coffi (Chris Cox)
 
 # Changes from release 2025/13 to 2026/01
 1. Bug - Added .tfp alias to Heathrow_Alias.txt - thanks to @lyraongithub
