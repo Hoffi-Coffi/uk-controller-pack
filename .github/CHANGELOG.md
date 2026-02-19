@@ -16,6 +16,7 @@
 15. Bug - Fixed updater not fully updating files, moved to git diff for better management - thanks to @MrAdder (Daniel Green)
 16. Enhancement - Updated VFPC to v3.7.0 - thanks to @MrAdder (Daniel Green)
 17. Enhancement - Updated CDM to v2.2.8.24 - thanks to @MrAdder (Daniel Green)
+18. AIRAC (2602) - Defined EGR162 and removed RA(T) SNESS - thanks to @Liaely (Lily Unitt)
 
 # Changes from release 2025/13 to 2026/01
 1. Bug - Added .tfp alias to Heathrow_Alias.txt - thanks to @lyraongithub
