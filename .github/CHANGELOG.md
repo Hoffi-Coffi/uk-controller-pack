@@ -7,6 +7,7 @@
 6. Enhancement - Removed real world TopSky SUA activations - thanks to @Liaely (Lily Unitt)
 7. Bug - Corrected danger area EGD098H naming - thanks to @Liaely (Lily Unitt)
 8. AIRAC (2602) - Updated Jersey Control (EGJJ_S_APP) frequency - thanks to @lyraongithub
+9. Bug/Enhancement - VACS Profile Improvements (added a number of useful missing positions and aliases)
 
 # Changes from release 2025/13 to 2026/01
 1. Bug - Added .tfp alias to Heathrow_Alias.txt - thanks to @lyraongithub
