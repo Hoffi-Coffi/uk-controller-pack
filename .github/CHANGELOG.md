@@ -1,9 +1,44 @@
+# Changes from release 2026/01 to 2026/02
+1. Enhancement - Implemented Salisbury Information - Thanks to @mid-archie (Archie Middlefell)
+2. Bug - Fixed incorrect runway in use for EGSS (Stansted) in vATIS area profiles
+3. Enhancement - Amended radar track symbols on NERC (LAC) profiles
+4. Procedure Change (2602) - Updated Polaris ENOR frequencies in VACS configuration
+5. Enhancement - Added TopSky to Military APC profile - thanks to @Liaely (Lily Unitt)
+6. Enhancement - Removed real world TopSky SUA activations - thanks to @Liaely (Lily Unitt)
+7. Bug - Corrected danger area EGD098H naming - thanks to @Liaely (Lily Unitt)
+8. AIRAC (2602) - Updated Jersey Control (EGJJ_S_APP) frequency - thanks to @lyraongithub
+9. Bug/Enhancement - VACS Profile Improvements (added a number of useful missing positions and aliases)
+10. AIRAC (2602) - Update Southend (EGMC) SMAA altitudes
+11. Enhancement - Added missing aerodrome airspace bases - thanks to @spacenano (Samuel Lefevre)
+12. Enhancement - Added RNP Approach fix symbols to TC Approach posistions - Thanks to @spacenano (Samuel Lefevre)
+13. Enhancement - Incorporated Inverness (EGPE) Profiles and Displays - Thanks to @spacenano (Samuel Lefevre)
+14. Bug - Removed dead link from AFIS/AGCS controller infomation - thanks to @ricky-gag38 (Riccardo Gagliardi)
+15. Bug - Fixed updater not fully updating files, moved to git diff for better management - thanks to @MrAdder (Daniel Green)
+16. Enhancement - Updated VFPC to v3.7.0 - thanks to @MrAdder (Daniel Green)
+17. Enhancement - Updated CDM to v2.2.8.24 - thanks to @MrAdder (Daniel Green)
+18. AIRAC (2602) - Defined EGR162 and removed RA(T) SNESS - thanks to @Liaely (Lily Unitt)
+19. Procedure Change (2602) - Incorporate Biggin Hill ground - thanks to @lucak1011 (Luca Kulaga)
+20. Bug - Fixed missing Sector File Descriptor in the Farnborough (EGLF) profile - Thanks to @MrAdder (Daniel Green)
+21. AIRAC(2603) - Updated TopSky definitions for daylight savings time 2026 - thanks to @Liaely (Lily Unitt)
+22. Enhancement - Added Aircraft Select (ASEL) key selection to Configurator - thanks to @hoffi-coffi (Chris Cox)
+
 # Changes from release 2025/13 to 2026/01
 1. Bug - Added .tfp alias to Heathrow_Alias.txt - thanks to @lyraongithub
 2. Bug - Some UK fixes now included in ASR Updater script - thanks to @luke11brown (Luke Brown)
 3. Enhancement - Updated Heathrow vATIS profile - thanks to @JYang365 (John Yang)
 4. AIRAC (2601) - Added dispersal area and apron labels to Mount Pleasant (EGYP) SMR - thanks to @Liaely (Lily Unitt)
-5. Enhancement - Added Aircraft Select (ASEL) key selection to Configurator - thanks to @hoffi-coffi (Chris Cox)
+5. Procedure Change (2601) - Introduced 'Worthing-only' position (LON_H_CTR) - thanks to @ricky-gag38 (Riccardo Gagliardi) & @luke11brown (Luke Brown)
+6. Procedure Change (2601) - Revised London AC Bandbox (LON_CTR) frequency - thanks to @ricky-gag38 (Riccardo Gagliardi) & @luke11brown (Luke Brown)
+7. Bug - Fixed EGNV centreline not displaying when on EGNV TWR - thanks to @spacenano (Samuel Lefevre)
+8. Bug - Removed FAVA map enabling on Scottish Area positions apart from EGPF and fixed colouring - thanks to @spacenano (Samuel Lefevre)
+9. Enhancement - Added a Farnborough profile for vACS - thanks to @AJArkley (Adam Arkley)
+10. Enhancement - Updated various vACS profiles - thanks to @lucak1011 (Luca Kulaga)
+11. Enhancement - Incorporated CDM 2.2.8.23 - thanks to @luke11brown (Luke Brown)
+12. AIRAC (2601) - Updated lateral dimensions of the Daventry Radar Corridor - thanks to @Liaely (Lily Unitt)
+13. AIRAC (2601) - Defined restricted area EGR161 - thanks to @Liaely (Lily Unitt)
+14. AIRAC (2601) - Defined danger areas EGD714A/B - thanks to @Liaely (Lily Unitt)
+15. Enhancement - VACS Profiles tidy up (mainly backend)
+16. Procedure Change (2601) - Add split ATIS frequencies for Manchester & Heathrow (EGCC & EGLL) & reassign Manchester (EGCC) planner freq
 
 # Changes from release 2025/11 to 2025/13
 1. Enhancement - Updated CDM to v2.2.8.21 - thanks to @Liaely (Lily Unitt)
