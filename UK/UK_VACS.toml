@@ -676,7 +676,7 @@ grouping = "None"
 
 "LFRB_*APP" = "LFRB APP"
 
-"120.450" = "JJ SKERY"
+"120.455" = "JJ SKERY"
 "125.205" = "JJ ORTAC"
 
 
@@ -870,9 +870,9 @@ grouping = "None"
 "120.655" = "ENSV BBX"
 "124.705" = "ENSV N"
 "135.680" = "ENSV 16"
-"121.550" = "ENOR S"
-"134.515" = "ENOR SC"
-"134.500" = "ENOR BBX"
+"131.535" = "ENOR S"
+"131.665" = "ENOR SC"
+"131.415" = "ENOR BBX"
 
 "126.750" = "BIRD E1"
 "132.300" = "BIRD E2"
