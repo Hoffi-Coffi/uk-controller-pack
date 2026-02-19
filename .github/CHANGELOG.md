@@ -14,6 +14,7 @@
 13. Enhancement - Incorporated Inverness (EGPE) Profiles and Displays - Thanks to @spacenano (Samuel Lefevre)
 14. Bug - Removed dead link from AFIS/AGCS controller infomation - thanks to @ricky-gag38 (Riccardo Gagliardi)
 15. Bug - Fixed updater not fully updating files, moved to git diff for better management - thanks to @MrAdder (Daniel Green)
+16. Enhancement - Updated VFPC to v3.7.0 - thanks to @MrAdder (Daniel Green)
 
 # Changes from release 2025/13 to 2026/01
 1. Bug - Added .tfp alias to Heathrow_Alias.txt - thanks to @lyraongithub
